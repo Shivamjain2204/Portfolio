@@ -75,6 +75,8 @@
         box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
         border-radius: 1.5rem 1.5rem 0 0;
         transition: .3s;
+        opacity: 0.90;
+        background-color: #ffffff;
     }
 
     /* Show Menu */
@@ -116,6 +118,7 @@
     .nav__close,
     .nav__toggle{
         display: block;
+        opacity: 3;
     }
 
 }
