@@ -34,7 +34,17 @@ const Portfolio = () => {
                     <ul className="services__modal-services grid">
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Currency Convertor</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
                             <p className="services__modal-info">Snake Game</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Mini Context</p>
                         </li>
 
                         <li className="services__modal-service">
@@ -85,9 +95,15 @@ const Portfolio = () => {
                     <h3 className="services__modal-title">UI/UX Design</h3>
     
                     <ul className="services__modal-services grid">
+
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
-                            <p className="services__modal-info">E-Commerce Website Redesign</p>
+                            <p className="services__modal-info">Form Builder Redesign</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">E-Commerce Website Design</p>
                         </li>
 
                         <li className="services__modal-service">
@@ -142,6 +158,16 @@ const Portfolio = () => {
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
                             <p className="services__modal-info">Notepad</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Password Generator</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Theme Switcher</p>
                         </li>
 
                         <li className="services__modal-service">
