@@ -39,6 +39,11 @@ const Portfolio = () => {
 
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Blog App</p>
+                        </li>
+
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
                             <p className="services__modal-info">Snake Game</p>
                         </li>
 
@@ -150,6 +155,11 @@ const Portfolio = () => {
                     <h3 className="services__modal-title">MERN Stack Projects</h3>
 
                     <ul className="services__modal-services grid">
+                        <li className="services__modal-service">
+                            <i className="uil uil-check-circle services__modal-icon"></i>
+                            <p className="services__modal-info">Blog App</p>
+                        </li>
+
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
                             <p className="services__modal-info">Todo List</p>
