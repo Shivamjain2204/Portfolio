@@ -78,7 +78,7 @@ const Services = () => {
                 <div className="services__modal-content">
                     <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                    <h3 className="services__modal-title">UI/UX Developer</h3>
+                    <h3 className="services__modal-title">UI/UX Development</h3>
                     <p className="services__modal-description"> Development in a specialized area of design and development focused on creating exceptional digital experiences for users. </p>
 
                     <ul className="services__modal-services grid">
@@ -127,7 +127,7 @@ const Services = () => {
                 <div className="services__modal-content">
                     <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                    <h3 className="services__modal-title">Mobile Web Developer</h3>
+                    <h3 className="services__modal-title">Mobile Web Developmentr</h3>
                     <p className="services__modal-description">Contributing in a field of web development that focuses on creating websites and web applications optimized for mobile devices</p>
 
                     <ul className="services__modal-services grid">

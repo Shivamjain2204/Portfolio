@@ -21,10 +21,10 @@ function App() {
       <Home/>
       <About/>
       <Skills/>
-      <Services/>
       <Qualification/>
-      {/* <Portfolio/>  */}
       <Work/>
+      {/* <Portfolio/>  */}
+      <Services/>
       <Contact/>
     </main>
 
