@@ -42,13 +42,15 @@ const Qualification = () => {
                     : "qualification__content"
                 }>
                     <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">Software Engineer</h3>
-                            <span className="qualification__subtitle">iVoyant Systems - Bengaluru</span>
+
+                    <div>
+                            <h3 className="qualification__title">React Developer</h3>
+                            <span className="qualification__subtitle">Arcitech - Mumbai</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> 12/2022 - 11/2023
+                                <i className="uil uil-calendar-alt"></i> 03/2024 - Presnt
                             </div>
                         </div>
+                        
 
                         <div>
                             <span className="qualification__rounder"></span>
@@ -68,6 +70,28 @@ const Qualification = () => {
                         </div>
 
                         <div>
+                            <h3 className="qualification__title">Software Engineer</h3>
+                            <span className="qualification__subtitle">iVoyant Systems - Bengaluru</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i> 12/2022 - 11/2023
+                            </div>
+                        </div>
+
+                    
+                    </div>
+
+                    {/* <div className="qualification__data">
+
+                        <div>
+
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+
+                        <div>
                             <h3 className="qualification__title">Software Engineer Intern</h3>
                             <span className="qualification__subtitle">Sannibh Technology - Vadodara</span>
                             <div className="qualification__calendar">
@@ -75,8 +99,8 @@ const Qualification = () => {
                             </div>
                         </div>
 
-                       
-                    </div>
+                    
+                    </div> */}
 
                     <div className="qualification__data">
                         <div>
@@ -114,6 +138,7 @@ const Qualification = () => {
 
                        
                     </div>
+
                 </div>
 
                 <div className={
