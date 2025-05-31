@@ -16,7 +16,7 @@ const About = () => {
         <div className="about__data">
             <Info/>
 
-            <p className="about__description">Frontend skilled developer👨🏻‍💻 who specializes in creating the user interface and user experience of websites🕸️ and web applications.</p><br />
+            <p className="about__description">Results-oriented Frontend Developer👨🏻‍💻 with a strong track record of developing scalable, AI-powered platforms✨. Skilled in leading teams and collaborating cross-functionally to deliver innovative💡 solutions that enhance user experiences and drive business growth.</p><br />
 
             <p className="about__description">If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀</p><br />
 
