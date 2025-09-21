@@ -73,7 +73,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Software Engineer</h3>
                             <span className="qualification__subtitle">iVoyant Systems - Bengaluru</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> 12/2022 - 03/2024
+                                <i className="uil uil-calendar-alt"></i> 12/2022 - 02/2024
                             </div>
                         </div>
 
