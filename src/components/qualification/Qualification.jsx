@@ -73,14 +73,29 @@ const Qualification = () => {
                             <h3 className="qualification__title">Software Engineer</h3>
                             <span className="qualification__subtitle">iVoyant Systems - Bengaluru</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> 12/2022 - 02/2024
+                                <i className="uil uil-calendar-alt"></i> 03/2022 - 02/2024
                             </div>
                         </div>
 
                     
                     </div>
 
-                    {/* <div className="qualification__data">
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Software Engineer Intern</h3>
+                            <span className="qualification__subtitle">iVoyant Systems - Bengaluru</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i> 12/2022 - 02/2023
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
+
+                    <div className="qualification__data">
 
                         <div>
 
@@ -100,7 +115,7 @@ const Qualification = () => {
                         </div>
 
                     
-                    </div> */}
+                    </div>
 
                     <div className="qualification__data">
                         <div>
